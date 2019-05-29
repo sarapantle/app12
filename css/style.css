@@ -9,8 +9,8 @@ body{
 	font-family:arial;
 	font-size:13px;
 	line-height:1.5em;
-	color:#006;
-	background-color:#06C;
+	color:#33F;
+	background-color:#3F0;
 }
 
 .clearfix{
@@ -53,7 +53,7 @@ input#volume{
 	width:95%;
 	margin-left:2%;
 	-webkit-appearance:none !important;
-	background:#63F;
+	background:#099;
 	height:1px;
 	margin-bottom:20px;
 }
@@ -104,7 +104,7 @@ button#stop{
 #playlist li.active{
 	font-weight:bold;
 	padding:3px;
-	background:#06F
+	background:#06F;
 }
 #progressBar{
 	width:80%;
